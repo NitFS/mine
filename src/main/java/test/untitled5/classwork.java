@@ -3,7 +3,7 @@ package test.untitled5;
 import co.aikar.commands.BukkitCommandManager;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class Untitled5 extends JavaPlugin {
+public class classwork extends JavaPlugin {
 
     @Override
     public void onEnable() {
@@ -12,5 +12,4 @@ public class Untitled5 extends JavaPlugin {
 
 
         manager.registerCommand(new HelloCommand());
-    }
-}
+    }}
