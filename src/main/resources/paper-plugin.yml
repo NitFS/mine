@@ -1,0 +1,5 @@
+name: test1
+version: '${version}'
+main: test.test1.Test1
+api-version: '1.19'
+food: "Пицца"
