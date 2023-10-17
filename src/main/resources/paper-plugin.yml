@@ -1,0 +1,4 @@
+name: shop
+version: '${version}'
+main: test3.shop.PLugin
+api-version: '1.19'
