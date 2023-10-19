@@ -1,0 +1,4 @@
+name: Shopnor
+version: '${version}'
+main: test3.shopnor.Shopnor
+api-version: '1.19'
